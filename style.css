@@ -1,0 +1,48 @@
+body {
+    overflow-x: hidden;
+    width: 100%;
+    font-family: "Mulish";
+    font-size: 16px;
+    line-height: 1.7;
+    letter-spacing: 0.2px;
+    word-wrap: break-word;
+    font-weight: 400;
+    background-color: #000;
+    color: #a2a2a2;
+}
+
+div {
+    height: 500px;
+    width: 500px;
+    background: black;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -350px;
+    margin-left: -250px;
+}
+
+img {
+    width: 400px;
+}
+
+.name {
+    margin-top: 0;
+    color: #fff;
+    font-size: 72px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.coloring {
+    color: #67cff2;
+}
+
+
+
+.tm_home {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
